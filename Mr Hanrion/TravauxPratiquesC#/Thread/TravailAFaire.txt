@@ -1,0 +1,6 @@
+Tp guidé: ThreadEtCSharp.pdf
+Coder I) + Ajouter un 2°thread
+Coder II) (avec une nouvelle classe) + puis ajouter une boucle dans le main
+Cette boucle s'exécute le nombre de fois correspondant à la valeur de l'attribut
+MyParam
+Faire Tp V)

@@ -1,0 +1,4 @@
+Tp listes
+Tp Manipulation de fichiers
+Tp Visionneuse image avec fichier journal.
+

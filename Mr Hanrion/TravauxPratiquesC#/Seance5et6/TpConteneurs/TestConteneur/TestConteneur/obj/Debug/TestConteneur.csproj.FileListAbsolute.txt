@@ -1,0 +1,8 @@
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\obj\Debug\TestConteneur.Properties.Resources.resources
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\obj\Debug\TestConteneur.csproj.GenerateResource.Cache
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\bin\Debug\TestConteneur.exe
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\bin\Debug\TestConteneur.pdb
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\obj\Debug\TestConteneur.exe
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\obj\Debug\TestConteneur.pdb
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\TestConteneur\TestConteneur\obj\Debug\TestConteneur.Form1.resources

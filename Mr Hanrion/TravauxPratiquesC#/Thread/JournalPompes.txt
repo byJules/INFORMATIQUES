@@ -1,0 +1,6 @@
+SiteA;pompe1;Marche:10h01;Arret:10h15;débitmax:100
+SiteA;pompe2;Marche:10h51;Arret:11h12;débitmax:50
+SiteB;pompe1;Marche:8h02;Arret:8h30;débitmax:100
+SiteB;pompe2;Marche:9h12;Arret:9h54;débitmax:50
+SiteA;pompe1;Marche:12h22;Arret:12h52;débitmax:100
+SiteB;pompe2;Marche:10h12;Arret:10h48;débitmax:50

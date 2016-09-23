@@ -1,0 +1,5 @@
+nomPictureBox.Image = nomProjet.Properties.Resources.ImageChoisie;
+
+ou
+
+imgAfficherImage.Image = VisionneuseImage.Resource1.Koala;

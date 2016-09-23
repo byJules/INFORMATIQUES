@@ -1,0 +1,50 @@
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\obj\Debug\TestSocketClient.FormClient.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\obj\Debug\TestSocketClient.Properties.Resources.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\obj\Debug\TestSocketClient.csproj.GenerateResource.Cache
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\bin\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\bin\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\obj\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\TestSocketClient\TestSocketClient\obj\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClient\TestSocketClient\obj\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClient\TestSocketClient\obj\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\obj\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\obj\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\bin\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\bin\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\obj\Debug\TestSocketClient.FormClient.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\obj\Debug\TestSocketClient.Properties.Resources.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClient\TestSocketClient\obj\Debug\TestSocketClient.csproj.GenerateResource.Cache
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\obj\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\obj\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\obj\Debug\TestSocketClient.FormClient.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\obj\Debug\TestSocketClient.Properties.Resources.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\obj\Debug\TestSocketClient.csproj.GenerateResource.Cache
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\bin\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\Copie de ApplicationSocketClientAvecClasseDNS\TestSocketClient\bin\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\bin\Debug\TestSocketClient.exe
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\bin\Debug\TestSocketClient.pdb
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.FormClient.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.Properties.Resources.resources
+C:\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.exe
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.pdb
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\bin\Debug\TestSocketClient.exe
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\bin\Debug\TestSocketClient.pdb
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.FormClient.resources
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.Properties.Resources.resources
+C:\Documents and Settings\yves\Mes documents\donnees\ExperimentationSecondes\STNUM20102011\SequenceReseau\DefiSocket\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.csproj.GenerateResource.Cache
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.exe
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.pdb
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\bin\Debug\TestSocketClient.exe
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\bin\Debug\TestSocketClient.pdb
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.FormClient.resources
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.Properties.Resources.resources
+C:\Users\yves\Documents\DEVELOP\VisualStudio2008\ProgrammeC#\ApplicationSocketClientAvecClasseDNSetEnvoiMessage\TestSocketClient\obj\Debug\TestSocketClient.csproj.GenerateResource.Cache
